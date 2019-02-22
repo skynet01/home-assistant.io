@@ -31,7 +31,7 @@ Supported devices:
 - Marantz M-CR603
 - Marantz M-RC610
 - Marantz SR5008
-- Marantz SR6007 - SR6010
+- Marantz SR6007 - SR6013
 - Marantz NR1506
 - Marantz NR1604
 - Other Denon AVR receivers (untested)
