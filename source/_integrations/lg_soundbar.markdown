@@ -22,4 +22,9 @@ Supported devices:
 
 ## Supported operations
 
-- These devices support mute, volume control, source selection and mode selection.
+- These devices support:
+  - power toggle
+  - mute
+  - volume control
+  - source selection
+  - mode selection
